@@ -48,4 +48,4 @@ cce init
 
 ## Get in Touch
 
-Interested in working with us? [Contact us](mailto:hello@yourdomain.com).
+Interested in working with us? [Contact us](mailto:ai.elara@proton.me).
